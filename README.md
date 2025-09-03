@@ -20,7 +20,7 @@ pip install rich
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/blu3OceanWaves/momentum.git
+git clone https://github.com/blu3OceanWaves/Momentum
 cd momentum
 ```
 
