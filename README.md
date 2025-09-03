@@ -44,7 +44,7 @@ Momentum’s interface is designed to be straightforward. When you run the scrip
 ## 📂 File Structure
 ```bash
 momentum/
-├── momentum.py   # The main script containing all logic for the CLI
+├── momentum      # The main script containing all logic for the CLI
 └── momentum.db   # The SQLite database file (automatically done in same dir)
 ```
 
